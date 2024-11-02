@@ -1,0 +1,7 @@
+/* Styles for custom modifications */
+.section {
+  padding: 20px;
+}
+.navbar-nav > li > a {
+  background-color: #ddd;
+}
